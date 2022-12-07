@@ -1,0 +1,23 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 600px;
+    margin-top: 20px;
+    background-color: greenyellow;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 0;
+}
+
+.int {
+    width: 400px !important;
+    margin-right: 30px;
+}
